@@ -34,7 +34,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
+Unable to find the hosting site to share large size gif. 
 
 ## License
 
